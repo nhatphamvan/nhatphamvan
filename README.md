@@ -28,9 +28,8 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nhatphamvan&show_icons=true&hide_border=true" />
 
-[website]: 
-[twitter]: 
-[mastodon]: 
-[youtube]: 
+[website]: https://instagram.com/
+[twitter]: https://instagram.com/
+[youtube]: https://instagram.com/
 [instagram]: https://instagram.com/
-[linkedin]: 
+[linkedin]: https://instagram.com/
