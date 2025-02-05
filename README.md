@@ -1,5 +1,14 @@
 ### Hi there, I'm Pham Van Nhat 👋
+I am an embedded software engineer and aim to learn and share knowledge with others to contribute to our community.
 
+I have experience in:
+  - 👨‍💻Architecting & developing highly reusable & expandable embedded firmware,
+  - 🪁 Real-time operating system : 
+    + FreeRTOS
+    + Zephyr
+    + Azure
+
+    
 ### Connect with me:
 
 [<img align="left" alt="b" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
