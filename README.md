@@ -3,6 +3,7 @@
 ### Connect with me:
 
 [<img align="left" alt="b" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Pham Van Nhat | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Pham Van Nhat | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Pham Van Nhat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Pham Van Nhat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -29,6 +30,7 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nhatphamvan&show_icons=true&hide_border=true" />
 
 [website]: https://instagram.com/
+[facebook]: htpps://facebook.com/phamvannhat2001/
 [twitter]: https://instagram.com/
 [youtube]: https://instagram.com/
 [instagram]: https://instagram.com/
