@@ -30,7 +30,7 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nhatphamvan&show_icons=true&hide_border=true" />
 
 [website]: https://instagram.com/
-[facebook]: htpps://facebook.com/phamvannhat2001/
+[facebook]: https://facebook.com/phamvannhat2001/
 [twitter]: https://instagram.com/
 [youtube]: https://instagram.com/
 [instagram]: https://instagram.com/
